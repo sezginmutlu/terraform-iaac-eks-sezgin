@@ -1,1 +1,1 @@
-# terraform-iaac-eks-sezgin
+# terraform-iaac-eks
